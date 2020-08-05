@@ -1,0 +1,20 @@
+Sub :- Project Status upto 10 April 2020
+
+Respected Sir,
+	Please see the updated status of the task below.
+
+Project Name :- DDOS Attack Detection Using Deep learning.
+MIS No :- 121942010
+Overall Project Timeline Completion Status – 100% complete (Implementation Completed)
+
+Table	
+
+Novelty in work :- Detecting DDOS attack using deep learning with bidirectional LSTM model using limited computational power.
+
+Reason for improved result :- The accuracy of DDOS detection is increased by using the bidirectional LSTM model (Recurrent Neural Network in deep learning) by training the model on limited dataset(packets).
+		Because of using limited dataset, the computational power required for operation is less, which in turn reduce the time required for training without affecting it's accuracy.
+
+Analysis :- The main aim of project is to detect the DDOS attack based on the information of current as well as previous data packets.
+	    This is achieved in this project by using the bidirectional LSTM model in deep learning.To increase the accuracy we use limited data packets to train from ISCX 2012 dataset.
+	    The implementation details are attached with this mail.
+
