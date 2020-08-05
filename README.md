@@ -19,3 +19,10 @@ Run the ```brnn_classifier.ipynb``` notebook.
 ### Plot of loss
 ![Plot of loss](BRNN_Model_Loss.png)
 
+The data set we used can be found here: https://www.unb.ca/cic/datasets/ids.html
+
+Please refer to this paper for more information on the dataset: https://www.sciencedirect.com/science/article/pii/S0167404811001672
+
+The exact data set we had used is https://gitlab.com/santhisenan/ids_iscx_2012_dataset.git
+
+
